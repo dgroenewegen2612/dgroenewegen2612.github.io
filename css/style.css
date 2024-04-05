@@ -1,5 +1,7 @@
-*{background-color: green;}
+body {
+    background-color: green !important;
+}
 
-div{
+div {
     background-color: yellow;
 }
